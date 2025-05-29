@@ -1,6 +1,6 @@
 #Escribe un programa que pida al usuario que ingrese una cadena de texto y luego cuente cuántas veces aparece una letra específica en la cadena.
 while True:
-    texto = input("Ingresa una cadena de texto (o presiona Enter para salir): ")
+    texto = str(input("Ingresa una cadena de texto (o presiona Enter para salir): "))
 
     if texto == "":
         print("Programa finalizado.")
