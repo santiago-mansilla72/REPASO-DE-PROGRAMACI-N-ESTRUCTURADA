@@ -14,5 +14,5 @@ while Meta != True:
         print(f"el corredor 1 llego a la meta en {c} segundos")
         Meta = True
     if corredor_2 >= 100:
-        print(f"el corredor 2 llego a la metaen en {c} segundos")
+        print(f"el corredor 2 llego a la meta en {c} segundos")
         Meta = True
